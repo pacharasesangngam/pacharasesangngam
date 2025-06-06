@@ -21,42 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various t
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Pachara's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacharasesangngam&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacharasesangngam&layout=compact&theme=radical)
-
-## 🔥 Featured Projects
-
-### 🤖 [BOTSHOPID](https://github.com/pacharasesangngam/BOTSHOPID)
-JavaScript-based bot project for shop management and automation.
-
-### 🐳 [Docker1](https://github.com/pacharasesangngam/Docker1)
-Containerization project showcasing deployment and orchestration skills.
-
-### 📚 [ExampleGithubPrep2022](https://github.com/pacharasesangngam/ExampleGithubPrep2022)
-Educational repository demonstrating GitHub best practices and project preparation.
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pacharasesangngam&theme=react-dark)
-
-## 🤝 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) <!-- Add your LinkedIn profile -->
-- 📧 [Email](mailto:your-email@example.com) <!-- Add your email -->
-- 🌐 [Portfolio](https://your-portfolio.com) <!-- Add your portfolio website -->
-
-## 💡 Fun Facts
-
-- ⚡ I love exploring new technologies and frameworks, especially React and Next.js
-- 🐍 Python enthusiast for automation and data processing
-- 🎯 Always looking for ways to optimize and improve code
-- 🌟 Believer in clean code and good documentation
-- 🚀 Passionate about modern web development and automation
-
----
 
 ⭐️ From [pacharasesangngam](https://github.com/pacharasesangngam)
 
